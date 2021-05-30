@@ -15,10 +15,10 @@ Steps
 
 To post you will need following parameters and ranges:
 
-hr: 0-23
-season: 1-4
-holiday: 0-1
-weekday: 0-6
+hr: 0-23\
+season: 1-4\
+holiday: 0-1\
+weekday: 0-6\
 weeks_mean: float with any number of bicycles from last week.
 
 You can use 06-upload-dataset to upload your dataset to Azure and 03-test-workspace-remote to test it. Please remember to configure your owen JSON to have your tenant and ID, if you avoid this step this repository will not work as intended.
